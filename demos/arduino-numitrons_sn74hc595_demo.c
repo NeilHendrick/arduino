@@ -1,4 +1,4 @@
-
+//// Pin connected to RCLK --  -- of 74HC595
 const int RCLKPin = 8;
 // Pin connected to SRCLK -- shift register clock pin -- of 74HC595
 const int SRCLKPin = 12;
